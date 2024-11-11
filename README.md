@@ -18,6 +18,8 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 The grid functionality in this Gradio app is designed to arrange generated images in a grid layout, based on a user-selected grid size. Here’s an explanation of how it works and a diagram to illustrate its operation.
 
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/rZcxkwjj50ejnshCv_0Yl.png)
+
 | Space Name | Description | Link |
 |------------|-------------|------|
 | GRID-6X    | A model for image generation and manipulation | [GRID-6X on Hugging Face](https://huggingface.co/spaces/prithivMLmods/GRID-6X) |
