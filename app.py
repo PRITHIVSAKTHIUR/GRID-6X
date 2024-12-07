@@ -194,7 +194,7 @@ with gr.Blocks(css=css, theme="bethecloud/storj_theme") as demo:
                     minimum=1,
                     maximum=50,
                     step=1,
-                    value=10,
+                    value=8,
                 )       
                 
                 style_selection = gr.Radio(
